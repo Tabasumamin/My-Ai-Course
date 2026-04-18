@@ -1,0 +1,40 @@
+Q1
+age=19
+height=5.8
+print(type(age))
+print(type(height))
+Q2
+num=3+4j
+print(num)
+print(type(num))
+Q3
+is_python_fun=True
+print(is_python_fun)
+print(type(is_python_fun))
+Q4
+a=10
+b=20
+c=30
+print(a,b,c)
+Q5
+x=100
+y=100
+z=100
+print(x,y,z)
+Q6
+num=float(int(input("enter you num:")))
+print(num)
+Q7
+num1=int(input("enter your num1:"))
+print(type(num1))
+Q8
+value=3+4j
+print(value.real)
+Q9
+a="i am a good boy"
+print(len(a))
+Q10
+a="ali"
+b="saif"
+a,b=b,a
+print(a,b)
